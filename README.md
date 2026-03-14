@@ -1,0 +1,1 @@
+# GIST-Gibbs-Intelligence-as-the-Structure-of-Thought
